@@ -5,23 +5,21 @@
  ## Table of contents
 
 - [Overview](#overview)
-  - [The_challenge](#Create a blog card preview)
+  - [The_challenge](#The_challenge)
   - [Screenshot](#screenshot)
-  - [Built with](#HTML+CCS)
-- [Author](#jslcoding - jessica sanmartin limes)
+  - [Built with](#With)
+- [Author]: @jslcoding  → jessica sanmartin limes
+- [When]: Jan 20, 2024.
 
 ## Overview
 
-### The challenge
+### The_challenge
 Users should be able to: See hover and focus states for all interactive elements on the page
 
 ### Links
-- Solution URL:
+- Solution URL: pending.
 
-## My process
-
-### Built with
-
+### With
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
