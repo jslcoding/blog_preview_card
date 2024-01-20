@@ -8,7 +8,7 @@
   - [The challenge](#The challenge)
   - [Screenshot](#screenshot)
   - [Built with](#Built with)
-- [Author](#jslcoding - jessica sanmartin limes)
+- Author: @jslcoding - jessica sanmartin limes
 
 ## Overview
 
