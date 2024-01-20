@@ -5,7 +5,7 @@
  ## Table of contents
 
 - [Overview](#overview)
-  - [The_challenge](#Create a blog card preview)
+  - [The challenge](#The challenge)
   - [Screenshot](#screenshot)
   - [Built with](#HTML+CCS)
 - [Author](#jslcoding - jessica sanmartin limes)
@@ -17,8 +17,6 @@ Users should be able to: See hover and focus states for all interactive elements
 
 ### Links
 - Solution URL:
-
-## My process
 
 ### Built with
 
