@@ -7,7 +7,7 @@
 - [Overview](#overview)
   - [The challenge](#The challenge)
   - [Screenshot](#screenshot)
-  - [Built with](#HTML+CCS)
+  - [Built with](#Built with)
 - [Author](#jslcoding - jessica sanmartin limes)
 
 ## Overview
