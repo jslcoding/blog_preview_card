@@ -5,9 +5,9 @@
  ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#The challenge)
-  - [Screenshot](#screenshot)
-  - [Built with](#Built with)
+  - [The challenge]
+  - [Screenshot]
+  - [Built with]
 - Author: @jslcoding - jessica sanmartin limes
 
 ## Overview
