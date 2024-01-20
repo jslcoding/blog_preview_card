@@ -16,7 +16,7 @@
 Users should be able to: See hover and focus states for all interactive elements on the page
 
 ### Links
-- Solution URL: pending.
+- Solution URL: https://jslcoding.github.io/blog_preview_card/.
 
 ### With
 
