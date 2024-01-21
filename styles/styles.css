@@ -37,6 +37,7 @@ h2, h3 {
 a {
     text-decoration: none;
     color: var(--black);
+    border-bottom: 1px solid blueviolet;
 }
 
 a:hover{
